@@ -1,0 +1,11 @@
+country,Age,Weight,Salary,Sleep before 10pm
+China,40,33,12000,TRUE
+Philippines,49,47,15000,FALSE
+China,35,50,8000,FALSE
+China,,78,,FALSE
+China,28,,7000,FALSE
+Indonesia,34,93,5000,FALSE
+Philippines,33,57,20000,FALSE
+Philippines,26,31,,TRUE
+China,,35,9500,TRUE
+China,41,,8500,FALSE

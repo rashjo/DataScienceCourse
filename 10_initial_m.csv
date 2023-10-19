@@ -1,0 +1,11 @@
+country,Age,Weight,Sleep before 10pm
+China,39,33,TRUE
+Philippines,49,47,FALSE
+China,,39,FALSE
+China,39,78,FALSE
+China,29,,FALSE
+Indonesia,34,93,FALSE
+Philippines,33,57,FALSE
+Philippines,26,31,TRUE
+China,,35,TRUE
+China,41,,FALSE
